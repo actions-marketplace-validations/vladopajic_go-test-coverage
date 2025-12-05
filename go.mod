@@ -6,7 +6,7 @@ toolchain go1.24.0
 
 require (
 	github.com/alexflint/go-arg v1.6.0
-	github.com/aws/aws-sdk-go v1.49.4
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/google/go-github/v56 v56.0.0
 	github.com/johannesboyne/gofakes3 v0.0.0-20230914150226-f005f5cc03aa
 	github.com/narqo/go-badge v0.0.0-20230821190521-c9a75c019a59
