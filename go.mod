@@ -1,8 +1,6 @@
 module github.com/vladopajic/go-test-coverage/v2
 
-go 1.24
-
-toolchain go1.24.0
+go 1.24.0
 
 require (
 	github.com/alexflint/go-arg v1.6.0
@@ -12,7 +10,7 @@ require (
 	github.com/narqo/go-badge v0.0.0-20230821190521-c9a75c019a59
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/tools v0.26.0
+	golang.org/x/tools v0.40.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -30,7 +28,7 @@ require (
 	github.com/ryszard/goskiplist v0.0.0-20150312221310-2dfbae5fcf46 // indirect
 	github.com/shabbyrobe/gocovmerge v0.0.0-20190829150210-3e036491d500 // indirect
 	golang.org/x/image v0.18.0 // indirect
-	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
